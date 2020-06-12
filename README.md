@@ -1,6 +1,6 @@
 # Provably Robust Metric Learning
 
-The implementations of the algorithms proposed in the paper Provably Robust Metric Learning.
+Implementation of the algorithm ARML (Adversarially Robust Metric Learning) proposed in the paper Provably Robust Metric Learning
 
 ## Requirements
 
