@@ -2,6 +2,9 @@
 
 Implementation of the algorithm ARML (Adversarially Robust Metric Learning) proposed in the paper Provably Robust Metric Learning
 
+* [NeurIPIS 2020](https://proceedings.neurips.cc/paper/2020/file/e038453073d221a4f32d0bab94ca7cee-Paper.pdf)
+* [arXiv](https://arxiv.org/abs/2006.07024)
+
 ## Requirements
 
 Our program is tested on Python 3.7.7. The required packages are
